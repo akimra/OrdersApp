@@ -1,0 +1,63 @@
+.username {
+  display: inline-block;
+  width: 70%;
+}
+
+.phone {
+  margin-left: 15px;
+  display: inline-block;
+  width: 25%;
+  max-width: 400px;
+}
+
+.product {
+  display: inline-block;
+  width: 50%;
+}
+
+.date {
+  margin-left: 15px;
+  display: inline-block;
+  width: 40%;
+  max-width: 400px;
+}
+
+.invalid {
+  box-shadow: 0 0 10px red;
+}
+
+.goods {
+
+}
+
+.colorPhone {
+
+}
+
+@media (max-width: 790px) {
+  .username {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .phone {
+    margin-left: 0;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .product {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .date {
+    margin-left: 0;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+  }
+}

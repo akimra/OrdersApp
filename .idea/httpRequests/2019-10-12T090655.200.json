@@ -1,0 +1,52 @@
+﻿[
+  {
+    "id": 3,
+    "date": "2019-10-02T00:00:00",
+    "username": "akim",
+    "phone": "9379992",
+    "product": "Samsung",
+    "colorPhone": "black",
+    "headset": true,
+    "charge": false
+  },
+  {
+    "id": 4,
+    "date": "2019-09-30T00:00:00",
+    "username": "akim",
+    "phone": "9379992",
+    "product": "Samsung",
+    "colorPhone": "black",
+    "headset": true,
+    "charge": false
+  },
+  {
+    "id": 5,
+    "date": "2019-08-08T00:00:00",
+    "username": "referfewcr",
+    "phone": "123456",
+    "product": "Samsung",
+    "colorPhone": "white",
+    "headset": true,
+    "charge": true
+  },
+  {
+    "id": 6,
+    "date": "2019-07-10T00:00:00",
+    "username": "fghjgh",
+    "phone": "12345677777",
+    "product": "Xiaomi",
+    "colorPhone": "",
+    "headset": true,
+    "charge": true
+  },
+  {
+    "id": 7,
+    "date": "2018-11-06T00:00:00",
+    "username": "alex",
+    "phone": "7778899",
+    "product": "",
+    "colorPhone": "black",
+    "headset": true,
+    "charge": true
+  }
+]

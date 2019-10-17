@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 5,
+    "dateBirth": "1996-02-21T00:00:00",
+    "username": "adminadmin",
+    "phone": "557557",
+    "product": "Samsung",
+    "colorPhone": "white",
+    "headset": true,
+    "charge": true
+  },
+  {
+    "id": 7,
+    "dateBirth": "1988-02-13T00:00:00",
+    "username": "chris",
+    "phone": "8800088",
+    "product": "iPhone",
+    "colorPhone": "black",
+    "headset": true,
+    "charge": false
+  }
+]

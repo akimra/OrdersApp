@@ -1,0 +1,311 @@
+﻿GET https://localhost:44333/api/orders/
+Accept: */*
+Cache-Control: no-cache
+{: 
+"a": 
+}: 
+
+<> 2019-10-16T101002.400.html
+
+###
+
+GET https://localhost:44333/api/orders/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T100941.200.json
+
+###
+
+GET https://localhost:44333/api/orders/a
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T100935.200.html
+
+###
+
+GET https://localhost:44333/api/orders
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T100722.500.html
+
+###
+
+GET https://localhost:44333/api/orders/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T100659.500.html
+
+###
+
+GET https://localhost:44333/api/orders/a
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T100643.200.html
+
+###
+
+GET https://localhost:44333/api/orders
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-16T090827.200.json
+
+###
+
+POST https://localhost:44333/api/orders
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Username":"santa",
+  "surname":"black"
+}
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Username":"santa",
+  "surname":"black"
+}
+
+<> 2019-10-14T100934.404.html
+
+###
+
+GET https://localhost:44333/api/orders
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-12T090655.200.json
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name":"santa",
+  "surname":"black"
+}
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "name":"santa",
+  "surname":"black"
+}
+
+<> 2019-10-03T042322.200.json
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"name":"santa",
+"surname":"black"
+}
+
+<> 2019-10-03T022330.200.json
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+<: 
+{: 
+"name": "santa",
+"surname": "black"
+}: 
+>: 
+
+<> 2019-10-03T022305.400.html
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+< D:/projects/C#PROJECTS/testtask/.idea/httpRequests/2019-10-01T034827.200.json
+
+<> 2019-10-03T022052.500.html
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+
+< D:/projects/C#PROJECTS/testtask/.idea/httpRequests/2019-10-01T034827.200.json
+
+###
+
+POST https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+
+< D:/projects/C#PROJECTS/testtask/.idea/httpRequests/2019-10-01T034827.200.json
+
+###
+
+GET https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-01T034827.200.json
+
+###
+
+GET https://localhost:44333/api/main
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-01T034542.200.txt
+
+###
+
+GET http://localhost:5001/api/main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:44333/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:44333/api/Main
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:44333/api/MainController/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:44333/api/MainController
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/MainController
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/MainController/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/MainController/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/MainController/CreateRecord
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+

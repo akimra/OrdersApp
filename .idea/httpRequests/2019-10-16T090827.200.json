@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": 1,
+    "dateBirth": "0001-01-01T00:00:00",
+    "username": "kjhgfd",
+    "phone": "8788332",
+    "product": "iPhone",
+    "colorPhone": "black",
+    "headset": true,
+    "charge": false
+  }
+]
